@@ -11,4 +11,4 @@ cpp: cpp/main.cpp
 
 .PHONY: clean
 clean:
-	rm spinner
+	rm -rf spinner
